@@ -1,7 +1,7 @@
 # main.py
 """
 MÓDULO RESTAURANTE
-Autor: [Tu Nombre Completo]
+
 Descripción: Contiene la lógica principal del sistema de gestión del restaurante.
 Coordina los productos, clientes y las operaciones del negocio.
 """
